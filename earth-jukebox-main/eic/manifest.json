@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:29:38+00:00",
+ "generated": "2026-11-15T02:46:08+00:00",
  "source": "https://svs.gsfc.nasa.gov/gallery/earth-information-center/",
  "datasets": [
   {
@@ -1831,7 +1831,14 @@
     "unit": "ppbv"
    },
    "polarity": "sad",
-   "thr": 26
+   "thr": 26,
+   "num": {
+    "v": 1,
+    "ver": "20261113091739",
+    "failed": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "cfg": "904a97556f",
+    "tried": "2026-11-15T02:46:08+00:00"
+   }
   },
   {
    "key": "o3",
